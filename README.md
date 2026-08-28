@@ -1,2 +1,2 @@
 # Team-Mausam
-We're here building our app "Mausam" for our SIH.
+Here We're building our app "Mausam" for SIH.
